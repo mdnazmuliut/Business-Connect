@@ -1,6 +1,6 @@
 ﻿# Business Connect
 **Business Connect** is a social media app where CEOs are users who can connect to each other through this platform.
-Users can follow others based on their interests.A Live Chat facility to communicate between users.
+Users can follow each others based on their interests.A Live Chat facility to communicate between users.
 
 **Business Connect** is a Full-Stack Website fully designed and developed by me. The data is provided by an external API, Random User API. To develop the website, I used the MERN stack (MongoDB, Express.js, React.js and Node.js).
 
